@@ -1,0 +1,15 @@
+SQLAlchemy
+databases
+DateTime
+typing
+uuid
+pydantic
+passlib
+asyncpg==0.27.0
+psycopg2==2.9.6
+bcrypt
+
+
+PyJWT==1.7.1
+python-decouple==3.3
+email-validator==2.0.0.post2
